@@ -135,12 +135,11 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-```
 - Julián Pinto - [GitHub](https://github.com/julianpinto15)  
 - Santiago Barbosa - [GitHub](https://github.com/BARBOSA191919)  
 - Diego Martinez - [GitHub](https://github.com/Difa98)  
 - Nicolas Sanabria - [GitHub](https://github.com/NicolasSE05)
-```
+
 
 ## 🌟 ¿Te gusta el proyecto?
 
