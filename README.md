@@ -51,9 +51,16 @@ mini-control-empleados/
 │   ├── 📂 static/         # CSS, JS, Imágenes
 │   └── 📂 templates/      # Plantillas Thymeleaf
 └── 📂 BD/                 # Scripts de base de datos
+
+
+
+
+
+
+
+
 ⚡ Funcionalidades por Módulo
 🥩 Gestión de Carnes
-
 Registro de productos cárnicos
 Control de fechas de vencimiento
 Precios dinámicos por temporada
