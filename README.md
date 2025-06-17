@@ -40,7 +40,7 @@ Arquitectura: MVC (Model-View-Controller)
 Seguridad: Autenticación basada en roles
 Email: Integración para notificaciones
 
-📁 Estructura del Proyecto
+##📁 Estructura del Proyecto
 mini-control-empleados/
 ├── 📂 controlador/          # Controladores REST y Web
 ├── 📂 entidades/           # Modelos JPA/Hibernate
