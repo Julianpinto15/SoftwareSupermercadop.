@@ -44,7 +44,7 @@
 
 ## 📁 Estructura del Proyecto
 
-
+```
 mini-control-empleados/
 ├── 📂 controlador/     # Controladores REST y Web
 ├── 📂 entidades/       # Modelos JPA/Hibernate
@@ -55,7 +55,7 @@ mini-control-empleados/
 │   ├── 📂 static/       # Recursos estáticos
 │   └── 📂 templates/    # Plantillas Thymeleaf
 └── 📂 BD/              # Scripts de base de datos
-        
+```        
 
 ## ⚡ Funcionalidades por Módulo
 
