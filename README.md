@@ -44,7 +44,7 @@
 
 ## 📁 Estructura del Proyecto
 
-```
+
 mini-control-empleados/
 ├── 📂 controlador/     # Controladores REST y Web
 ├── 📂 entidades/       # Modelos JPA/Hibernate
@@ -54,9 +54,8 @@ mini-control-empleados/
 ├── 📂 resources/       # CSS, JS, Imágenes
 │   ├── 📂 static/       # Recursos estáticos
 │   └── 📂 templates/    # Plantillas Thymeleaf
-└── 📂 BD/              # Scripts de base de datos
- ```     
-
+└── 📂 BD/              # Scripts de base de datos
+        
 
 ## ⚡ Funcionalidades por Módulo
 
@@ -117,21 +116,89 @@ mini-control-empleados/
 ✅ Minimercados  
 ✅ Tiendas de conveniencia  
 
-## 📸 Capturas de Pantalla
+## 📸 Galería de Capturas de Pantallaa
 
-### Dashboard Principal
-![Dashboard](https://via.placeholder.com/800x400/4CAF50/white?text=Dashboard+Principal)
+### 🔐 Autenticación y Seguridad
 
-### Punto de Venta
-![POS](https://via.placeholder.com/800x400/2196F3/white?text=Sistema+POS)
+-   🛡 Sistema de Login Seguro
+  
+![Image](https://github.com/user-attachments/assets/b972f9d0-49a5-4509-8e07-bd65d554bbfa)
 
-### Gestión de Inventario
-![Inventario](https://via.placeholder.com/800x400/FF9800/white?text=Control+Inventario)
+### 🏠 Panel Principal
+
+-   🎛 Dashboard Ejecutivo
+  
+![Image](https://github.com/user-attachments/assets/80980388-d32a-474a-8d7a-d6d163ee82b7)
+
+### 💰 Módulo de Ventas
+
+-    🛒 Terminal Punto de Venta (POS)
+     
+![Image](https://github.com/user-attachments/assets/72c7cf82-bb87-4ca3-8349-345a122cbc86)
+
+ ### 📈 Reportes y Análisis de Ventas
+
+![Image](https://github.com/user-attachments/assets/a7cb209e-ea65-4a98-9c2f-9458c0070072)
+
+
+### 📦 Gestión de Inventarios
+
+-   📋 Control General de Inventarioo
+  
+![Image](https://github.com/user-attachments/assets/9f0541e9-686d-491f-b234-aa1c40d72155)
+
+
+### 🥫 Gestión de Productos No Perecederos
+
+![Image](https://github.com/user-attachments/assets/f5b74b19-c1b4-432d-b51b-117b5f694b39)
+
+
+### 🏷 Sistema de Categorización
+
+![Image](https://github.com/user-attachments/assets/a654494c-9dc9-424d-b640-6749f63eb4ec)
+
+
+### 🛍 Módulo de Compras
+
+-   📝 Gestión de Pedidos y Compras
+  
+![Image](https://github.com/user-attachments/assets/ec56fe19-380e-4aec-aac2-e77777848cc0)
+
+
+### 👥 Administración de Usuarios
+
+-  🔧 Panel de Gestión de Usuarios
+  
+![Image](https://github.com/user-attachments/assets/2d3eb161-3c03-409c-bf3a-1c0cb0290b3b)
+
+
+### 💼 Sistema Contable Integral
+
+-   📊 Dashboard Contable Principal
+  
+![Image](https://github.com/user-attachments/assets/b671fe04-2818-45b4-920a-7d6076325afc)
+
+
+### 💸 Módulo de Ventas Contables
+
+![Image](https://github.com/user-attachments/assets/18083a49-ec2f-4335-8b95-2c9c2367baab)
+
+### 🏭 Gestión de Proveedores
+
+![Image](https://github.com/user-attachments/assets/42c5c7eb-bd13-41d4-b1cf-59672ba27297)
+
+### 🧾 Control de IVA y Tributación
+
+![Image](https://github.com/user-attachments/assets/b13a1589-7e47-4fbf-905c-80487705a857)
+
+### 📈 Análisis Financiero Avanzado
+
+![Image](https://github.com/user-attachments/assets/af6ed7ab-4991-4dfd-af0a-5563f4ba441a)
+
 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
 
 ## 👨‍💻 Autor
 
@@ -140,10 +207,10 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - Diego Martinez - [GitHub](https://github.com/Difa98)  
 - Nicolas Sanabria - [GitHub](https://github.com/NicolasSE05)
 
-
 ## 🌟 ¿Te gusta el proyecto?
 
 Si este proyecto te ha sido útil, ¡dale una ⭐ en GitHub!
+[⭐ Star en GitHub](https://github.com/BARBOSA191919/Software-supermercado-P.)
 
 ---
 
